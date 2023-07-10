@@ -1,0 +1,1 @@
+thread[4] finished. prime numbers between 0 and 5: 2

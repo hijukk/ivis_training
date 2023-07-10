@@ -1,0 +1,2 @@
+thread[2] finished. prime numbers between 0 and 3: 1
+thread[3] finished. prime numbers between 0 and 10000: 1229
