@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<node name="/org/foo/Bar">
+	<interface name="org.foo.Bar">
+		<method name="Baz">
+			<arg type="i" name="Param1" direction="in" />
+			<arg type="i" name="Param2" direction="out" /> 
+		</method>
+		<signal name="Signal">
+			<arg type="i" name="SigNum" />
+		</signal>
+	</interface>
+</node>
